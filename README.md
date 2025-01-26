@@ -1,0 +1,1 @@
+# Training_Neural_Network_For_Pattern_Recognition
